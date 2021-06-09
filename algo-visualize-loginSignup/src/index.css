@@ -1,0 +1,228 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.app {
+  width: 100vw;
+  height: 100vh;
+  color: white;
+  display: flex;
+  margin-left: -1%;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e212d;
+}
+.auth-form {
+  position: fixed;
+  width: 35%;
+  padding: 55px;
+  max-width: 100%;
+  border-radius: 48.5%;
+  box-shadow: 0px 0px 50px rgb(236, 38, 38);
+  color: black;
+  animation: myanimation 30s infinite;
+}
+
+@keyframes myanimation {
+  0% {
+    box-shadow: 0px 0px 150px rgb(238, 130, 130);
+    padding: 95px;
+    background-color: rgb(238, 130, 130);
+  }
+  5% {
+    box-shadow: 0px 0px 50px yellow;
+    padding: 75px;
+    background-color: yellow;
+  }
+  10% {
+    box-shadow: 0px 0px 150px rgb(70, 238, 70);
+    padding: 95px;
+    background-color: rgb(70, 238, 70);
+  }
+  15% {
+    box-shadow: 0px 0px 50px rgb(102, 250, 255);
+    padding: 75px;
+    background-color: rgb(102, 250, 255);
+  }
+  20% {
+    box-shadow: 0px 0px 150px rgb(191, 238, 61);
+    padding: 95px;
+    background-color: rgb(191, 238, 61);
+  }
+  25% {
+    box-shadow: 0px 0px 50px rgb(227, 70, 233);
+    padding: 75px;
+    background-color: rgb(227, 70, 233);
+  }
+  30% {
+    box-shadow: 0px 0px 150px rgb(70, 238, 70);
+    padding: 95px;
+    background-color: rgb(70, 238, 70);
+  }
+  35% {
+    box-shadow: 0px 0px 50px rgb(102, 250, 255);
+    padding: 75px;
+    background-color: rgb(102, 250, 255);
+  }
+  40% {
+    box-shadow: 0px 0px 150px rgb(19, 235, 12);
+    padding: 90px;
+    background-color: rgb(19, 235, 12);
+  }
+  45% {
+    box-shadow: 0px 0px 50px yellow;
+    padding: 75px;
+    background-color: yellow;
+  }
+  50% {
+    box-shadow: 0px 0px 150px rgb(70, 238, 70);
+    padding: 95px;
+    background-color: rgb(70, 238, 70);
+  }
+  55% {
+    box-shadow: 0px 0px 50px rgb(102, 250, 255);
+    padding: 85px;
+    background-color: rgb(102, 250, 255);
+  }
+  60% {
+    box-shadow: 0px 0px 150px rgb(242, 243, 241);
+    padding: 105px;
+    background-color: rgb(242, 243, 241);
+  }
+  65% {
+    box-shadow: 0px 0px 50px yellow;
+    padding: 85px;
+    background-color: yellow;
+  }
+  70% {
+    box-shadow: 0px 0px 150px rgb(70, 238, 70);
+    padding: 95px;
+    background-color: rgb(70, 238, 70);
+  }
+  75% {
+    box-shadow: 0px 0px 50px rgb(102, 250, 255);
+    padding: 75px;
+    background-color: rgb(102, 250, 255);
+  }
+  80% {
+    box-shadow: 0px 0px 150px rgb(222, 230, 202);
+    padding: 98px;
+    background-color: rgb(222, 230, 202);
+  }
+  85% {
+    box-shadow: 0px 0px 50px rgb(14, 3, 175);
+    padding: 79px;
+    background-color: rgb(14, 3, 175);
+  }
+  90% {
+    box-shadow: 0px 0px 150px rgb(96, 8, 197);
+    padding: 95px;
+    background-color: rgb(96, 8, 197);
+  }
+  95% {
+    box-shadow: 0px 0px 50px rgb(71, 248, 71);
+    padding: 75px;
+    background-color: rgb(71, 248, 71);
+  }
+  100% {
+    box-shadow: 0px 0px 150px rgb(241, 73, 171);
+    padding: 95px;
+    background-color: rgb(241, 73, 171);
+  }
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url('fonts/LR.ttf');
+}
+.heading {
+  font-family: myFirstFont;
+  font-size: 40px;
+  color: black;
+}
+@media only screen and (min-width: 20px) {
+  .auth-form {
+    width: 50%;
+  }
+  .heading {
+    font-size: 20px;
+  }
+  .app {
+    margin-left: -3%;
+  }
+}
+@media only screen and (min-width: 990px) {
+  .auth-form {
+    width: 30%;
+  }
+  .heading {
+    font-size: 40px;
+  }
+  .app {
+    margin-left: 0.5%;
+  }
+}
+.auth-form label {
+  display: block;
+  margin-bottom: 25px;
+}
+.auth-form input {
+  width: 100%;
+  padding: 7px;
+  border-radius: 10px;
+  border: 1px solid black;
+  background-color: #d2d2d2;
+}
+.auth-form button {
+  padding: 10px;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  background-color: #030a24;
+}
+.auth-form button:hover {
+  box-shadow: 0px 0px 30px black;
+}
+.auth-form button:disabled {
+  color: darkgray;
+  cursor: not-allowed;
+  background-color: gray;
+}
+.auth-link-container {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.auth-link {
+  color: rgb(34, 29, 29);
+  cursor: pointer;
+  font-weight: bold;
+}
+.auth-link:hover {
+  color: #030303;
+}
+.error {
+  color: #cd0000;
+  font-weight: bold;
+}
+
+/*FONTS*/
+
+@font-face {
+  font-family: myFont;
+  src: url('fonts/LR.otf');
+}
+.heading2 {
+  font-family: myFont;
+  letter-spacing: 0.12em;
+  font-size: 30px;
+  color: black;
+}
