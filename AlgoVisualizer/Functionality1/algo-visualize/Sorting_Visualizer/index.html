@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!--
+    *****************
+    DONE BY:-   Biswarup Bhattacharjee
+    E-MAIL:-    bbiswa471@gmail.com
+    *****************
+-->
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorting Visualizer</title>
+<link rel="icon" href="favicon.png" />
+    <link rel="stylesheet" href="./css/style.css">
+
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="array-inputs">
+                <p>SIZE OF AN ARRAY:</p>
+                <input id="a_size" type="range" min=20 max=150 step=1 value=80>
+                <p>SPEED OF VISUALIZATION:</p>
+                <input id="a_speed" type="range" min=1 max=5 step=1 value=4>
+                <button id="a_generate">Produce New Array!</button>
+            </div>
+
+            <div class="header_right">
+                <p class="nav-heading homeheading">Sorting visualizer</p>
+
+                <div class="algos">
+                    <button >Bubble</button>
+                    <button >Selection</button>
+                    <button style="margin-left: 15px;">Insertion</button>
+                    <button >Merge</button>
+                    <button >Quick</button>
+                    <button style="margin-right: 0px;">Heap</button>
+                </div>
+                <p><u>VISUALIZATION OF SORTING ALGORITHMS</u></p>
+            </div>
+
+        </nav>
+    </header>
+
+    <section>
+
+        <div id="Info_Cont1">
+            <p>Its First Container</p>
+        </div>
+
+        <div id="array_container">
+            
+        </div>
+
+        <div id="Info_Cont2">
+            <p>Its Last Container</p>
+        </div>
+
+    </section>
+
+    <footer>
+
+    </footer>
+
+    <script src="./scripts/main.js"></script>   <!--This should be at the end of body and should be loaded before sorts.js-->
+    <script src="./scripts/visualizations.js"></script>  <!--This should be loaded after main.js-->
+
+    <script src="./scripts/bubble_sort.js"></script>
+    <script src="./scripts/selection_sort.js"></script>
+    <script src="./scripts/insertion_sort.js"></script>
+    <script src="./scripts/merge_sort.js"></script>
+    <script src="./scripts/quick_sort.js"></script>
+    <script src="./scripts/heap_sort.js"></script>
+</body>
+
+<!--
+    *****************
+    DONE BY:-   BISWARUP BHATTACHARJEE
+    E-MAIL:-    bbiswa471@gmail.com
+    *****************
+-->
+
+</html>
