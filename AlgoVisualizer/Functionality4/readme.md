@@ -3,11 +3,11 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-bootstrap4-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-scss-brightgreen)](https://shields.io/) 
 
-***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Web application is created by Ankita Sikder and other group members, special credits goes to Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
-**Email Id: bbiswa471@gmail.com.** 
+**Email Id: ankita.sikder14@gmail.com.** 
 
-**Contact No: 916290272740.** 
+**Contact No: 8583939774.** 
 
 
 <p align="left">
@@ -67,21 +67,6 @@ Functionality4
 ## Making :point_down:
 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. 
-
-## Screenshots :point_down: 
-<div align="center">
- 
-<img src="s1.PNG" width="400" height= "300"> <img src="s2.PNG" width="400" height= "300">
-
-<img src="s12.PNG" width="400" height= "300"> <img src="s13.PNG" width="400" height= "300">
-
-<img src="s14.PNG" width="400" height= "300"> <img src="s15.PNG" width="400" height= "300">
-
-<img src="feed.PNG" width="400" height= "300"> <img src="back.PNG" width="400" height= "300">
-
-<img src="s16.PNG" width="800" height= "300">
-</div>
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -148,6 +133,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Screenshots :point_down: 
+<div align="center">
+            
+<a href="s1.png"><img src="s1.png" width="400" height= "250"></a> <a href="s2.png"><img src="s2.png" width="400" height= "250"></a>
+
+<a href="s12.png"><img src="s12.png" width="400" height= "250"></a> <a href="s13.png"><img src="s13.png" width="400" height= "250"></a>
+
+<a href="s14.png"><img src="s14.png" width="400" height= "250"></a> <a href="s15.png"><img src="s15.png" width="400" height= "250"></a>
+
+<a href="s16.png"><img src="s16.png" width="400" height= "250"></a>
+
+</div>
+
+
 
 
 
