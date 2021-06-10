@@ -1,7 +1,16 @@
 function recursiveDivisionMaze(board, rowStart, rowEnd, colStart, colEnd, orientation, surroundingWalls) {
   if (rowEnd < rowStart || colEnd < colStart) {
     return;
-  }
+  }/*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
   if (!surroundingWalls) {
     let relevantIds = [board.start, board.target];
     if (board.object) relevantIds.push(board.object);
@@ -91,9 +100,3 @@ function recursiveDivisionMaze(board, rowStart, rowEnd, colStart, colEnd, orient
 
 module.exports = recursiveDivisionMaze;
 
-/*
-    *****************
-    DONE BY:-  BISWARUP BHATTACHARJEE
-    E-MAIL:-    bbiswa471@gmail.com 
-    *****************
-*/
