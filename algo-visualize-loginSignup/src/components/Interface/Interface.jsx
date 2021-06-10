@@ -4,7 +4,16 @@ export const Interface = () => {
     var user = fb.auth.currentUser;
     var email;
     var id;
+/*ALL THESE WORKS ARE DONE BY 
 
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 if (user) {
     email = fb.auth.currentUser.email
     id = fb.auth.currentUser.uid;
