@@ -137,13 +137,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Screenshots :point_down: 
 <div align="center">
             
-<a href="s1.png"><img src="s1.png" width="400" height= "250"></a> <a href="s2.png"><img src="s2.png" width="400" height= "250"></a>
+<a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "250"></a>
 
-<a href="s12.png"><img src="s12.png" width="400" height= "250"></a> <a href="s13.png"><img src="s13.png" width="400" height= "250"></a>
+<a href="s12.PNG"><img src="s12.PNG" width="400" height= "250"></a> <a href="s13.PNG"><img src="s13.PNG" width="400" height= "250"></a>
 
-<a href="s14.png"><img src="s14.png" width="400" height= "250"></a> <a href="s15.png"><img src="s15.png" width="400" height= "250"></a>
+<a href="s14.PNG"><img src="s14.PNG" width="400" height= "250"></a> <a href="s15.PNG"><img src="s15.PNG" width="400" height= "250"></a>
 
-<a href="s16.png"><img src="s16.png" width="400" height= "250"></a>
+<a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
 
 </div>
 
