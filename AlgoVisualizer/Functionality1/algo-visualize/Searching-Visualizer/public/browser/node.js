@@ -1,4 +1,14 @@
 function Node(id, status) {
+  /*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
   this.id = id;
   this.status = status;
   this.previousNode = null;
