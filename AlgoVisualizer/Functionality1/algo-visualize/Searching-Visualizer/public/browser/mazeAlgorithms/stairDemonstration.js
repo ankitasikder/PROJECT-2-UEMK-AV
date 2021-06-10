@@ -1,4 +1,14 @@
 function stairDemonstration(board) {
+  /*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
   let currentIdX = board.height - 1;
   let currentIdY = 0;
   let relevantStatuses = ["start", "target", "object"];
@@ -38,9 +48,3 @@ function stairDemonstration(board) {
 }
 
 module.exports = stairDemonstration;
-/*
-    *****************
-    DONE BY:-  BISWARUP BHATTACHARJEE
-    E-MAIL:-    bbiswa471@gmail.com 
-    *****************
-*/
