@@ -2,11 +2,11 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
-***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Web application is created by Ankita Sikder and other group members, special credits goes to Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
-**Email Id: bbiswa471@gmail.com.** 
+**Email Id: ankita.sikder14@gmail.com.** 
 
-**Contact No: 916290272740.** 
+**Contact No: 8583939774.** 
 
 
 <p align="left">
@@ -67,19 +67,6 @@ Functionality3
 ## Making :point_down:
 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For chatting I have used [chat engine](https://chatengine.io/). For password I have used [firebase](https://firebase.google.com/).
-
-## Screenshots :point_down: 
-
-<div align="center">
- 
-<a href="login.PNG"><img src="login.PNG" width="400" height= "300"></a> <a href="main.PNG"><img src="main.PNG" width="400" height= "300"></a>
-
-<a href="s11.PNG"><img src="s11.PNG" width="400" height= "300"></a> <a href="s12.PNG"><img src="s12.PNG" width="400" height= "300"></a>
-
-<a href="load.PNG"><img src="load.PNG" width="800" height= 300"></a>
-
-</div>
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -146,5 +133,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Screenshots :point_down: 
+
+<div align="center">
+ 
+<a href="s1.PNG"><img src="s1.PNG" width="400" height= "300"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "300"></a>
+
+<a href="s11.PNG"><img src="s11.PNG" width="400" height= "300"></a> <a href="s16.PNG"><img src="s16.PNG" width="400" height= "300"></a>
+
+
+</div>
+
+
 
 
