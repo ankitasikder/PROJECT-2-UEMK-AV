@@ -1,4 +1,14 @@
 import React from 'react';
+/*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 import ReactDOM from 'react-dom';
 import "./index.css";
 import { Algolist } from './Algorithms';
