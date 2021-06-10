@@ -2,16 +2,16 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
-***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Web application is created by Ankita Sikder and other group members, special credits goes to Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
-**Email Id: bbiswa471@gmail.com.** 
+**Email Id: ankita.sikder14@gmail.com.** 
 
-**Contact No: 916290272740.** 
+**Contact No: 8583939774.** 
 
 <p align="left">
-<a href="https://facebook.com/biswarup.bhattacharjee.5811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
-<a href="https://instagram.com/biswarup2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+<a href="https://facebook.com/ankita.sikder.104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
+<a href="https://instagram.com/ankita.sikder14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/biswa2210/ankitasikder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ## About :point_down: 
@@ -21,7 +21,7 @@
 *It is a part of functionality 1 of my project.* Algorithm Visualizer is an online platform that visualizes algorithms from as per user choice. Algorithm-visualizer is a web app written in React. It contains UI components and interprets commands into visualizations. Here are two types of algorithms, searching and sorting. Here user will get a tutorial for using this web application. Here we can set the size, speed, name of algorithm them it will show how the algorithm actually works.
 </div>
 
-## LINK of full project: :point_right:https://algo-visualize-login-signup.vercel.app/login
+## LINK of full project: :point_right: https://algo-visualize-login-signup.vercel.app/login
 
 ## SORTING ALGORITHMS WHICH ARE VISUALIZED :point_down:
 
@@ -82,10 +82,10 @@ For references for algorithms I have used [geeksforgeeks](https://www.geeksforge
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="login.PNG"><img src="login.PNG" width="400" height= "300"></a> <a href="main.PNG"><img src="main.PNG" width="400" height= "300"></a>
-        
 <a href="s1.PNG"><img src="s1.PNG" width="400" height= "300"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "300"></a>
+        
+<a href="s5.PNG"><img src="s5.PNG" width="400" height= "300"></a> <a href="s6.PNG"><img src="s6.PNG" width="400" height= "300"></a>
 
-<a href="s3.PNG"><img src="s3.PNG" width="400" height= "300"></a> <a href="load.PNG"><img src="load.PNG" width="400" height= "300"></a>
+<a href="s16.PNG"><img src="s16.PNG" width="400" height= "300"></a> 
 
 </div>
