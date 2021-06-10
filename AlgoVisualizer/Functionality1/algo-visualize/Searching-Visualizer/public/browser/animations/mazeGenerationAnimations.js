@@ -1,4 +1,13 @@
-function mazeGenerationAnimations(board) {
+/*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/function mazeGenerationAnimations(board) {
   let nodes = board.wallsToAnimate.slice(0);
   let speed = board.speed === "fast" ?
     5 : board.speed === "average" ?
@@ -20,9 +29,4 @@ function mazeGenerationAnimations(board) {
 
 module.exports = mazeGenerationAnimations;
 
-/*
-    *****************
-    DONE BY:-  BISWARUP BHATTACHARJEE
-    E-MAIL:-    bbiswa471@gmail.com 
-    *****************
-*/
+
