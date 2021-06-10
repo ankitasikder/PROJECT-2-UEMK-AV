@@ -1,0 +1,270 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background: #1e212d;
+  color: #222;
+}
+
+.algolist {
+  width: 120w;
+  max-width: 1370px;
+  margin: 1rem auto;
+  display: grid;
+  gap: 0.7rem;
+  margin-bottom: 5%;
+  margin-top: 1%;
+  perspective: 900px;
+}
+
+.algo {
+  background-image: linear-gradient(red 10%, orange 50%, yellow 100%);
+  border-radius: 2rem;
+  padding: 1.5rem 1.5rem;
+  box-shadow: 0 8px 80px 0 #f570ee8c, 0 8px 80px 0 #ec5ed988;
+  transition: 0.5s all ease;
+  transform: rotate(-30deg) scale(0.5);
+  perspective: 900px;
+  animation: entry 1s linear 1;
+}
+@keyframes simple {
+  50% {
+    transform: translateX(10px);
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateX(10px);
+    opacity: 0;
+  }
+}
+
+@keyframes simple1 {
+  50% {
+    transform: translateX(-10px);
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateX(-10px);
+    opacity: 0;
+  }
+}
+
+@keyframes entry {
+  0% {
+    top: -20%;
+    opacity: 0.1;
+  }
+  100% {
+    top: 0%;
+  }
+}
+
+.algo p {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  font-weight: bold;
+}
+
+.algo:hover {
+  box-shadow: 0 5px 15px 0 #f570ee8c, 0 5px 15px 0 #ec5ed988;
+  padding: 1.5rem 1.5rem;
+  height: 100%;
+  width: 100%;
+  transform: rotate(0deg) scale(1) translateY(10px);
+  transition: 0.7s all ease;
+  z-index: 400;
+}
+.algo:hover + .algolist {
+  gap: 1rem;
+}
+
+.button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #435560;
+  color: white;
+  border: 2px solid #555555;
+  margin-top: 1rem;
+}
+.button:hover {
+  background-color: white;
+  color: black;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Luckiest+Guy");
+.godText {
+  margin-top: 3%;
+  font-size: 60px;
+  font-family: "Luckiest Guy", cursive;
+  color: #00917c;
+}
+
+.jumbotron {
+  background-image: linear-gradient(#1e212d, #2c2d30);
+  color: white;
+  font-weight: bold;
+}
+.container {
+  animation-fill-mode: forwards;
+  visibility: visible;
+  color: white;
+  box-shadow: 0 50px 40px 0 #27b5ec, 0 40px 50px 0 #47c8e9;
+  padding: 50px;
+}
+
+@media screen and (min-width: 530px) {
+  .algolist {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .algo {
+    transform: rotate(20deg) scale(0.5);
+  }
+  h1 {
+    font-size: 1.25em;
+  }
+}
+@media screen and (min-width: 860px) {
+  .algolist {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0rem;
+  }
+  .algo {
+    transform: rotate(20deg) scale(0.5);
+  }
+  h1 {
+    font-size: 1.3em;
+  }
+}
+@media screen and (min-width: 960px) {
+  .algolist {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.2rem;
+  }
+  .algo {
+    transform: rotate(360deg) skewY(20deg) scale(0.7);
+  }
+  h1 {
+    font-size: 1.35em;
+  }
+}
+@media screen and (min-width: 1260px) {
+  .algolist {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.7rem;
+  }
+  .algo {
+    transform: skewY(20deg) scale(0.6);
+  }
+  h1 {
+    font-size: 1.45em;
+  }
+}
+@media screen and (min-width: 1530px) {
+  .algolist {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.7rem;
+  }
+  .algo {
+    transform: skewY(20deg) scale(0.6);
+  }
+  h1 {
+    font-size: 1.8em;
+  }
+}
+/*Loaders Adds*/
+.routeloader {
+  animation: seconds 1s forwards;
+  animation-iteration-count: 1;
+  animation-delay: 2s;
+}
+
+@keyframes seconds {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+/*TEXT DESIGN ADDING*/
+h1 {
+  padding: 0;
+  color: white;
+  text-shadow: 0 0.1em 20px rgb(151, 151, 96),
+    0.05em -0.03em 0 rgb(235, 235, 12), 0.05em 0.005em 0 rgb(151, 151, 96),
+    0em 0.08em 0 rgb(151, 151, 96), 0.05em 0.08em 0 rgb(151, 151, 96),
+    0px -0.03em 0 rgb(151, 151, 96), -0.03em -0.03em 0 rgb(151, 151, 96),
+    -0.03em 0.08em 0 rgb(151, 151, 96), -0.03em 0 0 rgb(168, 233, 116);
+}
+
+h3 {
+  font-size: 1.8em;
+  padding: 0;
+  color: white;
+  text-shadow: 0 0.1em 20px #ee47e6, 0.05em -0.03em rgb(240, 25, 36),
+    0.05em 0.005em 0 rgb(71, 174, 221), 0em 0.09em 0 rgb(236, 142, 142),
+    0.05em 0.08em 0 rgb(233, 180, 180), 0px -0.03em 0 #99cc0e,
+    -0.03em -0.03em 0 rgb(243, 161, 161), -0.03em 0.08em 0 rgb(245, 173, 173),
+    -0.03em 0 0 rgb(121, 124, 118);
+}
+/*Scroll Indicator*/
+
+.progress-container {
+  position: fixed;
+  top: 0em;
+  left: 0em;
+  z-index: 1;
+  width: 100%;
+  height: 8px;
+  background: rgba(185, 233, 29, 0.027);
+}
+
+.progress-bar {
+  position: fixed;
+  height: 10px;
+  background-image: linear-gradient(yellow, red);
+  margin-left: 0;
+  width: 0%;
+}
+/*404 ERROR PAGE*/
+
+#main {
+  display: table;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+
+.fof {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.fof h1 {
+  font-size: 50px;
+  display: inline-block;
+  padding-right: 12px;
+  animation: type 0.5s alternate infinite;
+}
+
+@keyframes type {
+  from {
+    box-shadow: inset -3px 0px 0px #888;
+  }
+  to {
+    box-shadow: inset -3px 0px 0px transparent;
+  }
+}
