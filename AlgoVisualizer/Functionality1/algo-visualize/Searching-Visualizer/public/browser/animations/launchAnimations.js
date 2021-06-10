@@ -183,9 +183,3 @@ function launchAnimations(board, success, type, object, algorithm, heuristic) {
 
 module.exports = launchAnimations;
 
-/*
-    *****************
-    DONE BY:-  BISWARUP BHATTACHARJEE
-    E-MAIL:-    bbiswa471@gmail.com 
-    *****************
-*/
