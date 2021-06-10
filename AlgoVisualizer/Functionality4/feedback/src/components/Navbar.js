@@ -1,5 +1,15 @@
 import Navbar from 'react-bootstrap/Navbar';
 import { Link } from 'react-router-dom';
+/*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 export const Navibar = () => {
     return (
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
