@@ -126,9 +126,4 @@ function launchInstantAnimations(board, success, type, object, algorithm, heuris
 module.exports = launchInstantAnimations;
 
 
-/*
-    *****************
-    DONE BY:-  BISWARUP BHATTACHARJEE
-    E-MAIL:-    bbiswa471@gmail.com 
-    *****************
-*/
+
