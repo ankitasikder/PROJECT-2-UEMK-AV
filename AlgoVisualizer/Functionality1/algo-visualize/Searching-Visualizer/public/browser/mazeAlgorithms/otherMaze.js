@@ -101,9 +101,3 @@ EMAIL ID: ankita.sikder14@gmail.com
 
 module.exports = recursiveDivisionMaze;
 
-/*
-    *****************
-    DONE BY:-  BISWARUP BHATTACHARJEE
-    E-MAIL:-    bbiswa471@gmail.com 
-    *****************
-*/
