@@ -1,4 +1,14 @@
 const Node = require("./node");
+/*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 const launchAnimations = require("./animations/launchAnimations");
 const launchInstantAnimations = require("./animations/launchInstantAnimations");
 const mazeGenerationAnimations = require("./animations/mazeGenerationAnimations");
