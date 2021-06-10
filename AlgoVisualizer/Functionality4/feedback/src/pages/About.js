@@ -1,5 +1,15 @@
 export const About = () => {
     return (
+        /*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
         <section>
       <div class="jumbotron text-center">
   <h1 className="sak">Algorithm Visualizer About Page</h1>
