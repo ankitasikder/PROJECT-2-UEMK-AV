@@ -1,5 +1,14 @@
 const astar = require("./astar");
+/*ALL THESE WORKS ARE DONE BY 
 
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 function bidirectional(nodes, start, target, nodesToAnimate, boardArray, name, heuristic, board) {
   if (name === "astar") return astar(nodes, start, target, nodesToAnimate, boardArray, name)
   if (!start || !target || start === target) {
@@ -109,6 +118,16 @@ function getNeighbors(id, nodes, boardArray) {
   let coordinates = id.split("-");
   let x = parseInt(coordinates[0]);
   let y = parseInt(coordinates[1]);
+  /*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
   let neighbors = [];
   let potentialNeighbor;
   if (boardArray[x - 1] && boardArray[x - 1][y]) {
