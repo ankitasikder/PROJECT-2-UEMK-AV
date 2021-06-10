@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
-***This new Web application is created by Ankita Sikder and other group members, special credit goes to Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Web application is created by Ankita Sikder and other group members, special credit goes to Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***  
 
 **Email Id: ankita.sikder14@gmail.com.** 
 
