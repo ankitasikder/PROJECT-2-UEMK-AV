@@ -1,4 +1,14 @@
 function simpleDemonstration(board) {
+  /*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
   let currentIdY = board.width - 10;
   for (let counter = 0; counter < 7; counter++) {
     let currentIdXOne = Math.floor(board.height / 2) - counter;
@@ -19,9 +29,4 @@ function simpleDemonstration(board) {
 }
 
 module.exports = simpleDemonstration;
-/*
-    *****************
-    DONE BY:-  BISWARUP BHATTACHARJEE
-    E-MAIL:-    bbiswa471@gmail.com 
-    *****************
-*/
+
