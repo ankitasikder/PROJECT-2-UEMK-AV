@@ -2,17 +2,17 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
-***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Web application is created by Ankita Sikder and other group members, special credits goes to Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
-**Email Id: bbiswa471@gmail.com.** 
+**Email Id: ankita.sikder14@gmail.com.** 
 
-**Contact No: 916290272740.** 
+**Contact No: 8583939774.** 
 
 
 <p align="left">
-<a href="https://facebook.com/biswarup.bhattacharjee.5811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
-<a href="https://instagram.com/biswarup2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+<a href="https://facebook.com/ankita.sikder.104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
+<a href="https://instagram.com/ankita.sikder14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/biswa2210/ankitasikder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ## About :point_down: 
@@ -26,7 +26,7 @@ As an effective method, an algorithm can be expressed within a finite amount of 
 The concept of algorithm has existed since antiquity. Arithmetic algorithms, such as a division algorithm, was used by ancient Babylonian mathematicians c. 2500 BC and Egyptian mathematicians c. 1550 BC. Greek mathematicians later used algorithms in 240 BC in the sieve of Eratosthenes for finding prime numbers, and the Euclidean algorithm for finding the greatest common divisor of two numbers. Arabic mathematicians such as al-Kindi in the 9th century used cryptographic algorithms for code-breaking, based on frequency analysis. This part provides 72 cards containing details of different algorithms. Here are 3 types of algorithms, searching, sorting and others.
 </div>
 
-## LINK : :point_right:https://algo-visualize-algorithms.netlify.app/
+## LINK : :point_right: https://algo-visualize-algorithms.netlify.app/
 
 ## Purpose :point_down:
 
@@ -70,19 +70,6 @@ Clicking on Algorithms user can see 72 cards of different algorithms. When user 
 ## Making :point_down:
 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). For all custom images in algorithms part I have used [photoshop](www.adobe.com/Adobe/Photoshop). 
-## Screenshots :point_down: 
-
-<div align="center">
- 
-<a href="s1.PNG"><img src="s1.PNG" width="400" height= "300"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "300"></a>
-
-<a href="s7.PNG"><img src="s7.PNG" width="400" height= "300"></a> <a href="s8.PNG"><img src="s8.PNG" width="400" height= "300"></a>
-
-<a href="s9.PNG"><img src="s9.PNG" width="400" height= "300"></a> <a href="s10.PNG"><img src="s10.PNG" width="400" height= "300"></a>
-
-<a href="s16.PNG"><img src="s16.PNG" width="800" height= "300"></a>
-
-</div>
 
 ## Available Scripts
 
@@ -150,3 +137,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Screenshots :point_down: 
+
+<div align="center">
+ 
+<a href="s1.PNG"><img src="s1.PNG" width="400" height= "300"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "300"></a>
+
+<a href="s7.PNG"><img src="s7.PNG" width="400" height= "300"></a> <a href="s8.PNG"><img src="s8.PNG" width="400" height= "300"></a>
+
+<a href="s9.PNG"><img src="s9.PNG" width="400" height= "300"></a> <a href="s10.PNG"><img src="s10.PNG" width="400" height= "300"></a>
+
+<a href="s16.PNG"><img src="s16.PNG" width="800" height= "300"></a>
+
+</div>
+
