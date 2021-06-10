@@ -30,8 +30,8 @@
  - [x] username
  - [x] password
 
-**:point_right: [click here to read Project2 Research Paper](https://github.com/biswa2210/PROJECT-2-UEMK/blob/master/4thSemProject2ResearchPaper.pdf)<br>
-:point_right: [click here to see Project2 PowerPoint Presentation](https://docs.google.com/presentation/d/1StIwLrpYgdswHR1W40IjPABYh3_WWq_V/edit#slide=id.p1)<br>**
+**:point_right: [click here to read Project2 Research Paper](https://github.com/ankitasikder/PROJECT-2-UEMK-AV/blob/main/4thSemProject2ResearchPaper.pdf)<br>
+:point_right: [click here to see Project2 PowerPoint Presentation]()<br>**
 
 ## LINKS :point_down:
 
