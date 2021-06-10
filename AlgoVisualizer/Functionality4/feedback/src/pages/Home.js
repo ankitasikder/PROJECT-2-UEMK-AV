@@ -1,4 +1,14 @@
 export const Home = () => {
+    /*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
     return (<>
         <center><h1 className="jumbotron homeheading">Algorithm Visualizer</h1>
           <div class="col-sm-8 text-left"> <hr></hr>
