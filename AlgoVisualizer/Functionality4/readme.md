@@ -143,7 +143,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <a href="s14.PNG"><img src="s14.PNG" width="400" height= "250"></a> <a href="s15.PNG"><img src="s15.PNG" width="400" height= "250"></a>
 
-<a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
+<a href="s16.PNG"><img src="s16.PNG" width="800" height= "250"></a>
 
 </div>
 
