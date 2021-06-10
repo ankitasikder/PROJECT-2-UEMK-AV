@@ -4,6 +4,16 @@ function test(nodes, start, target, nodesToAnimate, boardArray, name, heuristic)
   if (!start || !target || start === target) {
     return false;
   }
+  /*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
   nodes[start].distance = 0;
   nodes[start].direction = "up";
   let unvisitedNodes = Object.keys(nodes);
