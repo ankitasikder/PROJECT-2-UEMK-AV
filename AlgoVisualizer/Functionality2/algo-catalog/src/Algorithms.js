@@ -1,4 +1,14 @@
 import { sorting } from './sorting';
+/*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 import { searching } from './searching';
 import {Link } from "react-router-dom";
 import Dijikstra from './othersimages/DIJKSTRAALGORITHM.jpg';
