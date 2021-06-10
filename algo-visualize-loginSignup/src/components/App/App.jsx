@@ -2,7 +2,16 @@ import { useEffect } from 'react';
 import { useAuth, useResolved } from 'hooks';
 import { Login, Signup, Interface } from 'components';
 import { Switch, Route, useHistory } from 'react-router-dom';
+/*ALL THESE WORKS ARE DONE BY 
 
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 export const App = () => {
   const history = useHistory();
   const { authUser } = useAuth();
