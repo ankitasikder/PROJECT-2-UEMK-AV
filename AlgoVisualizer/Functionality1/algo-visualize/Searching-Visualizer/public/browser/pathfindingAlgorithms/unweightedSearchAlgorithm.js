@@ -2,6 +2,16 @@ function unweightedSearchAlgorithm(nodes, start, target, nodesToAnimate, boardAr
   if (!start || !target || start === target) {
     return false;
   }
+  /*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
   let structure = [nodes[start]];
   let exploredNodes = {start: true};
   while (structure.length) {
