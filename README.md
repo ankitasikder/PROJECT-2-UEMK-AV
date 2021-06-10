@@ -31,7 +31,7 @@
  - [x] password
 
 **:point_right: [click here to read Project2 Research Paper](https://github.com/ankitasikder/PROJECT-2-UEMK-AV/blob/main/4thSemProject2ResearchPaper.pdf)<br>
-:point_right: [click here to see Project2 PowerPoint Presentation]()<br>**
+:point_right: [click here to see Project2 PowerPoint Presentation](https://github.com/ankitasikder/PROJECT-2-UEMK-AV/blob/main/CSE2023_GROUP%2042.pptx)<br>**
 
 ## LINKS :point_down:
 
