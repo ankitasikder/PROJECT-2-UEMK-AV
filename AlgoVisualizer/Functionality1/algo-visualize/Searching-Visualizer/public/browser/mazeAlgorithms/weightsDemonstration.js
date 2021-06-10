@@ -1,4 +1,14 @@
 function weightsDemonstration(board) {
+  /*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
   let currentIdX = board.height - 1;
   let currentIdY = 35;
   while (currentIdX > 5) {
@@ -28,9 +38,3 @@ function weightsDemonstration(board) {
 }
 
 module.exports = weightsDemonstration;
-/*
-    *****************
-    DONE BY:-  BISWARUP BHATTACHARJEE
-    E-MAIL:-    bbiswa471@gmail.com 
-    *****************
-*/
