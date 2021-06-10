@@ -1,4 +1,14 @@
 import Evenodd from './sortingimages/Bricksort.jpg';
+/*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 import Binaryinsertion from './sortingimages/Binaryinsertion.jpg';
 import Pegionhole from './sortingimages/Pegionhole.jpg';
 import bubble from './sortingimages/Bubble.jpg'
