@@ -93,34 +93,6 @@ For all custom images in algorithms part I have used [photoshop](www.adobe.com/A
 For backend I have used [firebase](https://firebase.google.com/) which provides a user secret to every user which they use for discussion portion.
 In discussion part for chatting I have used [chat engine](https://chatengine.io/) and I have made a project in api which provides our project secret key.<br>
 
-## Screenshots :point_down: 
-
-<div align="center">
-<a href="pics/s1.PNG"><img src="pics/s1.PNG" width="400" height= "300"></a> <a href="pics/s2.PNG"><img src="pics/s2.PNG" width="400" height= "300"></a>
-
-<a href="pics/s3.PNG"><img src="pics/s3.PNG" width="400" height= "300"></a> <a href="pics/s4.PNG"><img src="pics/s4.PNG" width="400" height= "300"></a>
-
-<a href="pics/s5.PNG"><img src="pics/s5.PNG" width="400" height= "300"></a> <a href="pics/s6.PNG"><img src="pics/s6.PNG" width="400" height= "300"></a>
-
-<a href="pics/s7.PNG"><img src="pics/s7.PNG" width="400" height= "300"></a> <a href="pics/s8.PNG"><img src="pics/s8.PNG" width="400" height= "300"></a>
-
-<a href="pics/9.PNG"><img src="pics/s9.PNG" width="400" height= "300"></a> <a href="pics/s10.PNG"><img src="pics/s10.PNG" width="400" height= "300"></a>
-
-<a href="pics/11.PNG"><img src="pics/s11.PNG" width="400" height= "300"></a> <a href="pics/s12.PNG"><img src="pics/s12.PNG" width="400" height= "300"></a>
-
-<a href="pics/s13.PNG"><img src="pics/s13.PNG" width="400" height= "300"></a> <a href="pics/s14.PNG"><img src="pics/s14.PNG" width="400" height= "300"></a>
-
-<a href="pics/s15.PNG"><img src="pics/s15.PNG" width="400" height= "300"></a> <a href="pics/feed.PNG"><img src="pics/feed.PNG" width="400" height= "300"></a> 
-
-<a href="pics/back.PNG"><img src="pics/back.PNG" width="400" height= "300"></a> <a href="pics/s16.PNG"><img src="pics/s16.PNG" width="400" height= "300"></a>
-</div>
-
-## Block Diagram of Project :point_down:
-
-<div align="center">
-<a href="pics/bl2.PNG"><img src="pics/bl2.PNG" width="800" height= "350"></a>
-</div>
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -187,3 +159,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Screenshots :point_down: 
+
+<div align="center">
+<a href="pics/s1.PNG"><img src="pics/s1.PNG" width="400" height= "300"></a> <a href="pics/s2.PNG"><img src="pics/s2.PNG" width="400" height= "300"></a>
+
+<a href="pics/s3.PNG"><img src="pics/s3.PNG" width="400" height= "300"></a> <a href="pics/s4.PNG"><img src="pics/s4.PNG" width="400" height= "300"></a>
+
+<a href="pics/s5.PNG"><img src="pics/s5.PNG" width="400" height= "300"></a> <a href="pics/s6.PNG"><img src="pics/s6.PNG" width="400" height= "300"></a>
+
+<a href="pics/s7.PNG"><img src="pics/s7.PNG" width="400" height= "300"></a> <a href="pics/s8.PNG"><img src="pics/s8.PNG" width="400" height= "300"></a>
+
+<a href="pics/s9.PNG"><img src="pics/s9.PNG" width="400" height= "300"></a> <a href="pics/s10.PNG"><img src="pics/s10.PNG" width="400" height= "300"></a>
+
+<a href="pics/s11.PNG"><img src="pics/s11.PNG" width="400" height= "300"></a> <a href="pics/s12.PNG"><img src="pics/s12.PNG" width="400" height= "300"></a>
+
+<a href="pics/s13.PNG"><img src="pics/s13.PNG" width="400" height= "300"></a> <a href="pics/s14.PNG"><img src="pics/s14.PNG" width="400" height= "300"></a>
+
+<a href="pics/s15.PNG"><img src="pics/s15.PNG" width="400" height= "300"></a> <a href="pics/feed.PNG"><img src="pics/feed.PNG" width="400" height= "300"></a> 
+
+<a href="pics/back.PNG"><img src="pics/back.PNG" width="400" height= "300"></a> <a href="pics/s16.PNG"><img src="pics/s16.PNG" width="400" height= "300"></a>
+</div>
+
+## Block Diagram of Project :point_down:
+
+<div align="center">
+<a href="pics/bl2.PNG"><img src="pics/bl2.PNG" width="800" height= "350"></a>
+</div>
+
