@@ -1,7 +1,16 @@
 import { useState } from 'react';
 import { SendOutlined, PictureOutlined } from '@ant-design/icons';
 import { sendMessage, isTyping } from 'react-chat-engine';
+/*ALL THESE WORKS ARE DONE BY 
 
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 const MessageForm = (props) => {
   const [value, setValue] = useState('');
   const { chatId, creds } = props;
