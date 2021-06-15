@@ -1,7 +1,3 @@
-# ALGORIHMS-VIUALIZER-PART :star_struck: :computer:
-
-[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
-
 ***This new Web application is created by Ankita Sikder and other group members, special credit goes to Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***  
 
 **Email Id: ankita.sikder14@gmail.com.** 
@@ -14,30 +10,20 @@
 <a href="https://github.com/biswa2210/ankitasikder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
+# ALGORIHMS-VIUALIZER-PART :star_struck: :computer:
+
+[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
+
 ## About :point_down: 
 
 <div align="justified">
    
-*It is the functionality 1 of my project.* Algorithm Visualizer is an online platform that visualizes algorithms from as per user choice. Algorithm-visualizer is a web app written in React. It contains UI components and interprets commands into visualizations. Here are two types of algorithms, searching and sorting. Here user will get a tutorial for using this web application. Here we can set the size, speed, name of algorithm them it will show how the algorithm actually works.
+*It is the functionality 1 of my project.* Algorithm-visualizer is a web app written in React. It contains UI components and interprets commands into visualizations. Here are two types of algorithms, searching and sorting. Here user will get a tutorial for using this web application. Here we can set the size, speed, name of algorithm them it will show how the algorithm actually works. I have made this website to easily study algorithms.
 </div>
 
 ## LINK of full project: :point_right: https://algo-visualize-login-signup.vercel.app/login
 
-## Purpose :point_down:
-
-<div align="justified">
-   
-Algorithms are used in every part of computer science. They form the field's backbone. In computer science, an algorithm gives the computer a specific set of instructions, which allows the computer to do everything, be it running a calculator or running a rocket. Algorithmic thinking, or the ability to define clear steps to solve a problem, is crucial in many different fields. Even if we’re not conscious of it, we use algorithms and algorithmic thinking all the time. Algorithmic thinking allows students to break down problems and conceptualize solutions in terms of discrete steps. Being able to understand and implement an algorithm requires students to practice structured thinking and reasoning abilities. I have made this website to easily study algorithms. I have made this to make learning algorithms an interesting, facsinating and easy work. 
-</div>
-
-## Use :point_down:
-
-<div align="justified">
-   
-Clicking on Visualize Algorithms user can see searching visualizer and there in the drop down menu user has to choose sorting algorithms to watch and understand working of some specific algorithms. User can read the tutorial which describes how to use that web application. User can change the values to see different working way. User just has to follow the tutorials to use this.
-</div>
-
-## Importance :point_down:
+## Why I have made this :point_down:
 
 <div align="justified">
    
@@ -51,49 +37,19 @@ Functionality1
    |
    └── algo-visualize
             ├── Searching-Visualizer
-            |          ├── public
-            |          |      ├── browser
-            |          |      |      ├── animations
-            |          |      |      ├── mazeAlgorithms
-            |          |      |      ├── pathfindingAlgorithms
-            |          |      |      ├── board.js
-            |          |      |      ├── bundle.js
-            |          |      |      ├── getDistance.js
-            |          |      |      └── node.js
-            |          |      └── styling
-            |          |             ├── fonts
-            |          |             ├── cssBasic.css
-            |          |             ├── cssPokemon.css
-            |          |             └── svgs and imgs
-            |          ├── server.js
-            |          └── index.html
             └── Sorting-Visualizer
-                       ├── css 
-                       |    ├── fonts
-                       |    ├── style.css
-                       |    └── style.css.map
-                       ├── scripts
-                       |    ├── bubble_sort.js
-                       |    ├── heap_sort.js
-                       |    ├── insertion_sort.js
-                       |    ├── main.js
-                       |    ├── merge_sort.js
-                       |    ├── quick_sort.js
-                       |    ├── selection_sort.js
-                       |    └── visualizations.js
-                       ├── VS_Sorting_Visualizer.code_Workspace
-                       ├── index.html
-                       └── favicon.png
+
 ```                       
 
-## Making :point_down:
+## Some Points :point_down:
 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, nodejs. It is fully responsive.<br>
 For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). 
 
-## Screenshots :point_down: 
+## Screenshots of this part:point_down: 
 
 <div align="center">
+   
  <a href="s1.PNG"><img src="s1.PNG" width="400" height= "300"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "300"></a>
 
 <a href="s3.PNG"><img src="s3.PNG" width="400" height= "300"></a> <a href="s4.PNG"><img src="s4.PNG" width="400" height= "300"></a>
