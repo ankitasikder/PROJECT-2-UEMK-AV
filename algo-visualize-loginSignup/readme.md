@@ -61,7 +61,7 @@ algo-visualize-loginsignup
 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, nodejs and Formik. It is fully responsive.<br> I have connected the user name with [chat engine](https://www.chatengine.io/).<br> In the main page the user secret for each user is provided by [firebase](https://firebase.google.com/).<br> I have used [vercel](https://vercel.com) and [nodejs](https://nodejs.org/en/).<br>
 
-## Screenshots :point_down: 
+## Screenshots of this part :point_down: 
 
 <div align="center">
  
