@@ -1,4 +1,4 @@
-***This new Web application is created by Ankita Sikder and other group members, special credits goes to Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Web application is created by Ankita Sikder and other group members, special credit goes to Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: ankita.sikder14@gmail.com.** 
 
@@ -27,6 +27,11 @@
 :point_right: [click here to see Project2 PowerPoint Presentation](https://github.com/ankitasikder/PROJECT-2-UEMK-AV/blob/main/CSE2023_GROUP%2042.pptx)<br>**
 ***PROJECT--\>https://algo-visualize-login-signup.vercel.app/login***
 
+## RESEARCH PAPER PUBLISHED IN IJRESM ON Web-Based Dynamic Algorithm Visualizer Along with Chat Engine SDK for Neophytes 
+
+**https://journals.resaim.com/ijresm/article/view/1290/
+https://journals.resaim.com/ijresm/article/view/1290/1234/**
+
 ## Why I have made this project :point_down:
 
 <div align="justified">
@@ -35,6 +40,7 @@ There are two principal applications of algorithm visualization: research and ed
 </div>
 
 ## Folder Structure :point_down:
+
 ```bash
 ├── PROJECT-2-UEMK
 │   ├── Functionality1
@@ -50,6 +56,7 @@ There are two principal applications of algorithm visualization: research and ed
 |
 └── algo-visualize-loginsignup
 ```
+
 ## Some Points :point_down:
 
 I have created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive.<br>
